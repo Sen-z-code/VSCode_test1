@@ -102,3 +102,6 @@ void KK_RTC_Init(){
         HAL_UART_Transmit(&huart2, (uint8_t*)msg, strlen(msg), HAL_MAX_DELAY);
     }
 }
+
+
+//第一次修改
